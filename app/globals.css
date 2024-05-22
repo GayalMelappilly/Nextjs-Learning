@@ -31,3 +31,10 @@ body {
     text-wrap: balance;
   }
 }
+
+.custom-select option {
+  background-color: black;
+  border-color: #8b5cf6;
+  border: 2px;
+  color: white; 
+}
